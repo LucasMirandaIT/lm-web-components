@@ -1,0 +1,28 @@
+:host {
+  display: block;
+}
+
+.lm-btn {
+  color: #181818;
+  border-radius: 8px;
+  padding: 8px;
+  width: 200px;
+  border: none;
+
+  &.btn-primary {
+    background-color: #6a6aff;
+    color: white;
+  }
+  &.btn-secondary {
+    background-color: #8dffca;
+  }
+}
+
+// .lm-btn.btn-primary {
+//   background-color: #6a6aff;
+//   color: #181818;
+// }
+// .lm-btn.btn-secondary {
+//   background-color: #8dffca;
+//   color: #181818;
+// }
